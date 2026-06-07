@@ -89,7 +89,7 @@ jira-task-management/
 |-------------|--------------------------------------|
 | Framework   | Spring Boot 3.2                      |
 | ORM         | Spring Data JPA / Hibernate          |
-| Database    | PostgreSQL (H2 for tests)            |
+| Database    | MYSQL (H2 for tests)            |
 | Mapping     | MapStruct 1.5                        |
 | Boilerplate | Lombok                               |
 | Docs        | SpringDoc OpenAPI / Swagger UI       |
@@ -103,7 +103,7 @@ jira-task-management/
 
 - Java 17+
 - Maven 3.8+
-- PostgreSQL 14+
+- MySQL 14+
 
 ---
 
